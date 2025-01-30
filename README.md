@@ -7,7 +7,7 @@ This repository implements **Contextual Thompson Sampling** with **Softmax Scali
 The algorithm adapts bid values based on past performance, balancing **exploration and exploitation** to maximize expected wins while minimizing bid costs.
 
 ### ⚡ Features  
-✅ **Context-Aware Learning:** Bids are optimized per `(campaign_id, revenue_bucket)`  
+✅ **Context-Aware Learning:** Bids are optimized per `(campaign_id, revenue_bucket)`  --- You can modify to generate any context of your liking
 ✅ **Thompson Sampling:** Bayesian optimization ensures dynamic bid adjustments  
 ✅ **Softmax Scaling:** Prevents over-exploitation and maintains exploration flexibility  
 ✅ **Adaptive History Window:** Keeps a short-term memory of bid performance  

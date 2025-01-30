@@ -3,7 +3,7 @@ Contextual Thompson Sampler With Short Term Memory
 
 
 ### 📌 Overview  
-This repository implements **Contextual Thompson Sampling** with **Softmax Scaling** and **Short-Temr Memory** for **dynamic bid optimization**.  
+This repository implements **Contextual Thompson Sampling** with **Softmax Scaling** and **Short-Term Memory** for **dynamic bid optimization**.  
 The algorithm adapts bid values based on past performance, balancing **exploration and exploitation** to maximize expected wins while minimizing bid costs.
 
 ### ⚡ Features  

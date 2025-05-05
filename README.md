@@ -22,8 +22,8 @@ The algorithm adapts bid values based on past performance, balancing **explorati
 
 ## 🏗️ Installation  
 ```bash
-git clone https://github.com/your_username/ContextualTS-Bidding.git
-cd ContextualTS-Bidding
+git clone https://github.com/your_username/thompson-stm.git
+cd thompson-stm
 pip install -r requirements.txt  # if any dependencies are added later
 ```
 

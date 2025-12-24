@@ -1,6 +1,6 @@
 
 
-# 🚀 Contextual Reinforcement Learning Bid Optimization Pipeline
+# 🚀 Contextual Reinforcement Learning Bid Optimization 
 
 ## 🎯 The Business Problem: Bidding at E-local
 
